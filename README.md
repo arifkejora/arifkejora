@@ -18,33 +18,16 @@ Saya Arif Kejora, seorang pengembang perangkat lunak dengan minat di bidang peng
 
 ## 🌟 Proyek Utama
 
-### 1. Belitung Sejahtera
-Aplikasi all-in-one untuk sektor perikanan dan pariwisata di Belitung yang mendukung keberlanjutan dan pengembangan ekonomi masyarakat setempat.
-
-**Fitur:**
-- 🛒 Marketplace untuk produk perikanan dan lokal
-- 🏖️ Informasi dan pemesanan pariwisata
-- 🌍 Manajemen sumber daya alam
-- 🎓 Pendidikan dan pelatihan online
-- 📢 Pemasaran digital
-
-### 2. Sistem Informasi Pendaftaran Mitra Franchise Cendol Akhir Zaman
-Proyek ini adalah sistem informasi berbasis web untuk pendaftaran mitra franchise Cendol Akhir Zaman yang dilengkapi dengan fitur generate laporan otomatis.
-
-**Fitur:**
-- 📄 Pendaftaran online
-- 📊 Laporan otomatis
-- 🗂️ Manajemen dokumen
+Cek Sendiri Di REPO, Maish banyak yg di private
 
 ## 📫 Kontak
 
-- Email: arifkejora@example.com
-- LinkedIn: [Arif Kejora](https://www.linkedin.com/in/arifkejora/)
-- Website: [arifkejora.dev](https://arifkejora.dev)
+- Email: widiartoarif55@gmail.com
+- LinkedIn: [Arif Kejora](https://www.linkedin.com/in/ariefarta/)
+- Website: [arifkejora.dev](#)
 
 ## 🏆 Pencapaian
 
-- 💡 Pemenang Kontes API Gemini 2023
 - 🎖️ Kontributor Open Source di beberapa proyek terkenal
 
 ## 📜 Lisensi
