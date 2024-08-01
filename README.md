@@ -20,7 +20,7 @@ Yo, namaku Arif Kejora, coder yang suka ngoprek di web development, backend, dan
 
 Cek sendiri di repo, masih banyak yang rahasia 😎
 
-![Animated Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- Contoh GIF animasi -->
+![Naruto Running](https://media.giphy.com/media/3o6Zt8z3R8fl7u7d9i/giphy.gif) <!-- Contoh GIF Naruto -->
 
 ## 📫 Kontak
 
