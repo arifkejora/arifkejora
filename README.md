@@ -20,6 +20,8 @@ Yo, namaku Arif Kejora, coder yang suka ngoprek di web development, backend, dan
 
 Cek sendiri di repo, masih banyak yang rahasia 😎
 
+![Animated Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- Contoh GIF animasi -->
+
 ## 📫 Kontak
 
 - 📧 Email: widiartoarif55@gmail.com
