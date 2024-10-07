@@ -1,12 +1,12 @@
 # Arif Kejora
 
-Hai, welcome di repositori GitHub Arif Kejora! Di sini, aku share proyek, kontribusi open-source, dan karya pribadi yang kece punya.
+Hello, welcome to Arif Kejora's GitHub repository! Here, I share my projects, open-source contributions, and some awesome personal creations.
 
-## 🙋‍♂️ Tentang Aku
+## 🙋‍♂️ About Me
 
-Yo, namaku Arif Kejora, coder yang suka ngoprek di web development, backend, dan bikin solusi teknologi kreatif. Seneng eksplor teknologi baru buat ngelawan masalah dunia nyata!
+Hey there! I’m Arif Kejora, a coder who loves diving into web development, backend systems, and crafting creative tech solutions. I'm passionate about exploring new technologies to tackle real-world problems!
 
-## 🔧 Teknologi & Tools
+## 🔧 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -16,22 +16,22 @@ Yo, namaku Arif Kejora, coder yang suka ngoprek di web development, backend, dan
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Proyek Utama
+## 🌟 Key Projects
 
-Cek sendiri di repo, masih banyak yang rahasia 😎
+Check them out in the repo—there are still plenty of surprises waiting for you! 😎
 
-![Naruto Running](https://media.giphy.com/media/3o6Zt8z3R8fl7u7d9i/giphy.gif) <!-- Contoh GIF Naruto -->
+![Naruto Running](https://media.giphy.com/media/3o6Zt8z3R8fl7u7d9i/giphy.gif) <!-- Example GIF -->
 
-## 📫 Kontak
+## 📫 Contact Me
 
-- 📧 Email: widiartoarif55@gmail.com
+- 📧 Email: [widiartoarif55@gmail.com](mailto:widiartoarif55@gmail.com)
 - 💼 LinkedIn: [Arif Kejora](https://www.linkedin.com/in/ariefarta/)
 - 🌐 Website: [arifkejora.dev](#)
 
-## 🏆 Pencapaian
+## 🏆 Achievements
 
-- 🎖️ Kontributor Open Source di proyek keren
+- 🎖️ Open Source Contributor on some amazing projects.
 
-## 📜 Lisensi
+## 📜 License
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
