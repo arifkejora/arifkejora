@@ -16,12 +16,6 @@ Hey there! I’m Arif Kejora, a coder who loves diving into web development, bac
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Key Projects
-
-Check them out in the repo—there are still plenty of surprises waiting for you! 😎
-
-![Naruto Running](https://media.giphy.com/media/3o6Zt8z3R8fl7u7d9i/giphy.gif) <!-- Example GIF -->
-
 ## 📫 Contact Me
 
 - 📧 Email: [widiartoarif55@gmail.com](mailto:widiartoarif55@gmail.com)
