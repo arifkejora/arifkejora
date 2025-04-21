@@ -19,8 +19,8 @@ Hey there! I’m Arif Kejora, a coder who loves diving into web development, bac
 ## 📫 Contact Me
 
 - 📧 Email: [widiartoarif55@gmail.com](mailto:widiartoarif55@gmail.com)
-- 💼 LinkedIn: [Arif Kejora](https://www.linkedin.com/in/ariefarta/)
-- 🌐 Website: [arifkejora.dev](#)
+- 💼 LinkedIn: -
+- 🌐 Website: ongoing
 
 ## 🏆 Achievements
 
